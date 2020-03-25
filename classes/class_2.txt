@@ -1,0 +1,16 @@
+Class: Oven
+
+Attributes:
+is_on (boolean)
+temperature (integer)
+cook_time (float)
+brand (string)
+is_closed (boolean)
+
+Methods:
+
+turn_on (changes the is_on attribute to true)
+raise_temperature (adds 10 to the temperature attribute)
+add_cook_time (adds 5.0 to the cook_time attribute)
+open_oven (changes the is_closed attribute to false)
+replace_oven (changes the brand attribute)
