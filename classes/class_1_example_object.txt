@@ -1,0 +1,13 @@
+Object: 8 Person Table in My Restaurant
+
+Attributes:
+length = 60.0
+color = "Black"
+has_tablecloth = true
+seating_capacity = 8
+
+Method Results:
+add_chair: seating_capacity = 9
+paint_table: color = "Blue"
+remove_tablecloth: has_tablecloth = false
+open_leaves: length = 80.0
