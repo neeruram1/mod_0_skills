@@ -1,0 +1,14 @@
+Class: Table
+
+Attributes:
+length (float)
+color (string)
+has_tablecloth (boolean)
+seating_capacity (integer)
+
+Methods:
+
+add_chair (adds 1 to the seating_capacity attribute)
+paint_table (changes the color attribute)
+remove_tablecloth (changes the has_tablecloth attribute to false)
+open_leaves (adds 20.0 to the length attribute)
