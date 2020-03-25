@@ -1,0 +1,15 @@
+Object: Samsung Oven in My Restaurant
+
+Attributes:
+is_on = false
+temperature = 300
+cook_time = 60.0
+brand = "Samsung"
+is_closed = true
+
+Methods Results:
+turn_on: is_on = true
+raise_temperature: temperature = 310
+add_cook_time: cook_time = 65.0
+open_oven: is_closed = false
+replace_oven: brand = "Whirlpool"
