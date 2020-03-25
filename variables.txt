@@ -1,0 +1,9 @@
+food = "pizza"
+is_new = true
+food = "taco"
+num1 = 5
+num2 = 8
+num3 = num1 * num2
+movies = ["Harry Potter and the Sorcerer's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Deathly Hallows (Part 1)"]
+movies.pop
+movies.length
